@@ -3,7 +3,10 @@ npm install
 
 To run cypress test run command:
 ./node_modules/.bin/cypress open
-from the the window choose browser and proper test to run
+
+
+From the opened window choose browser and proper test to run
+
 
 Structure of the files in main cypress/ folder:
 fixtures/ -> here are located user accounts
