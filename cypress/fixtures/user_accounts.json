@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "userDescription": "User with valid credentials",
+    "email": "plandayqa@outlook.com",
+    "password": "APItesting21"
+  },
+  {
+    "id": 2,
+    "userDescription": "User with invalid credentials",
+    "email": "plandayqa@outlook.com",
+    "password": "APItesting12789"
+  }
+]
